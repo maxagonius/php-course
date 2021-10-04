@@ -5,7 +5,6 @@
   </head>
   <body>
     <?php
-    
 	$name = "PHP Store";
 	$credit = 1000;
 
@@ -17,7 +16,7 @@
 		$products['iPhone']=1000;
 		$products['Toaster']=75;
 
-			echo "<p>A car costs $".$products['Car']."</p>";
+		echo "<p>A car costs $".$products['Car']."</p>";
     ?>
   </body>
 </html>
